@@ -1,0 +1,75 @@
+
+body{
+	padding-top: 50px;
+	background: #f5f5f5;
+}
+
+.container{
+	background: #ffffff;
+	padding: 40px;
+}
+
+.imagen {
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+h1 {
+	font-family: 'roboto', sans-serif;
+	font-weight: 500;
+	margin-bottom: 0px;
+}
+
+h2 {
+	font-family: 'open-sans', sans-serif;
+	font-weight: 300;
+	margin-top: 0px;
+}
+
+h3 {
+	font-family: 'open-sans', sans-serif;
+	font-weight: 300;
+	font-size: 18px;
+
+}
+
+
+.redes-sociales a {
+	text-decoration: none;
+	padding-right: 5px;
+	font-size: 20px;
+
+}
+
+hr {
+	border-top: 1px solid;
+	color: #424242;
+}
+
+h4 {
+	font-family: 'roboto', sans-serif;
+	text-transform: uppercase;
+	font-weight: 700;
+	font-size: 14px;
+
+}
+
+p {
+	font-family: 'open-sans', sans-serif;
+	font-weight: 300;
+	font-size: 14px;
+
+}
+
+/*
+
+
+.carousel-inner {
+	background-color: #000;
+
+}
+
+.img{
+	 width: 100%;
+}
+
