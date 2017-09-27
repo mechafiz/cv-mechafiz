@@ -33,17 +33,37 @@ h3 {
 
 }
 
+a {
+	text-decoration: none;
+	color: #c09438;
+
+}
+
+a:hover {
+	text-decoration: none;
+	color: #a17822;
+
+}
 
 .redes-sociales a {
 	text-decoration: none;
 	padding-right: 5px;
 	font-size: 20px;
-	color: #006DC5;
+	color: #c09438;
 
 }
 
 .redes-sociales a:hover {
-	color: #0094DA;
+	text-decoration: none;
+	color: #a17822;
+
+}
+
+.fa-heart{
+	padding-right: 5px;
+	padding-bottom: 5px;
+	font-size: 10px;
+	color: #c09438;
 
 }
 
@@ -54,11 +74,16 @@ hr {
 
 h4 {
 	font-family: 'roboto', sans-serif;
-	margin-bottom: 0px;
 	font-size: 16px;
 	text-transform: unset;
 	font-weight: 500;
 }
+
+.exp-laboral {
+	margin-bottom: 0px;
+}
+
+
 
 .encabezado {
 	font-family: 'roboto', sans-serif;
@@ -86,15 +111,8 @@ p {
 
 }
 
-/*
-
-
-.carousel-inner {
-	background-color: #000;
-
+.sobre-mi{
+	line-height: 1.6;
 }
 
-.img{
-	 width: 100%;
-}
 
