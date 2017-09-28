@@ -115,4 +115,27 @@ p {
 	line-height: 1.6;
 }
 
+@media (max-width: 991px){
+	.imagen{
+		display: block;
+		margin:auto;
+		margin-bottom: 10px;
+	}	
 
+	h1{
+		text-align: center;
+	}
+
+	h2{
+		text-align: center;
+	}
+
+	h3{
+		text-align: center;
+	}
+	
+	.redes-sociales{
+		text-align: center;
+	}
+
+}
